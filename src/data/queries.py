@@ -233,12 +233,12 @@ def main():
     #get_monthly_breakdown()
     #print("\nJoins and Multi-table Queries:")
     #get_list_of_orders()
-    #top_5_customers()
+    top_5_customers()
     #top_suppliers()
     #print("\nNested Queries and Subqueries:")
     #customers_with_orders_over_threshold(9000)
     #get_highest_number_of_items(10)
 
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
